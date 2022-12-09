@@ -7,6 +7,10 @@ These dashboards contains reworked and updated graphs based on those from
 
 To use, import into your Grafana instance (Dashboards -> Import).
 
+Previews:
+
+[![](statistics_thumb.png)](statistics.png) [![](locations_thumb.png)](locations.png)
+
 ## Statistics
 
 This dashboard contains statistics on packets, queries and responses with
