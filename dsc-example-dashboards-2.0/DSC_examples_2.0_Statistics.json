@@ -1014,7 +1014,19 @@
               }
             ]
           ],
-          "tags": []
+          "tags": [
+            {
+              "key": "server",
+              "value": "/^$server$/",
+              "operator": "=~"
+            },
+            {
+              "key": "node",
+              "value": "/^$node$/",
+              "operator": "=~",
+              "condition": "AND"
+            }
+          ]
         },
         {
           "datasource": {
