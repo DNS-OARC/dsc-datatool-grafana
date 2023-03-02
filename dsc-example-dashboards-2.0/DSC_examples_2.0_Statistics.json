@@ -1352,7 +1352,7 @@
             },
             {
               "params": [
-                "previous"
+                "none"
               ],
               "type": "fill"
             }
