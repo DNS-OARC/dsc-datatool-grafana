@@ -92,7 +92,7 @@
           "showLineNumbers": false,
           "showMiniMap": false
         },
-        "content": "# Client Subnets\n\nThese graphs presents detailed statistics around the client subnets\nthat can be gathered by [DSC](https://www.dns-oarc.net/oarc/data/dsc).\n\n**NOTE:** these graphs are just examples and can be quite processing heavy!\n\nRead [this wiki article](https://github.com/DNS-OARC/dsc-datatool/wiki/Setting-up-a-test-Grafana) how to set up this yourself.\n",
+        "content": "# Client Subnets\n\nThese graphs presents detailed statistics around the client subnets\nthat can be gathered by [DSC](https://www.dns-oarc.net/oarc/data/dsc).\n\n**NOTE:** these graphs are just examples and can be quite processing heavy!\n\nRead [this wiki article](https://codeberg.org/DNS-OARC/dsc-datatool/wiki/Setting-up-a-test-Grafana) how to set up this yourself.\n",
         "mode": "markdown"
       },
       "pluginVersion": "9.2.3",

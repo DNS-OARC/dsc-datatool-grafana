@@ -86,7 +86,7 @@
           "showLineNumbers": false,
           "showMiniMap": false
         },
-        "content": "# DSC Extended\n\nThese graphs presents more detailed statistics around RD/D0 bit, EDNS version, client port ranges etc,\nthat can be gathered by [DSC](https://www.dns-oarc.net/oarc/data/dsc).\n\n**NOTE:** these graphs are just examples.\n\nRead [this wiki article](https://github.com/DNS-OARC/dsc-datatool/wiki/Setting-up-a-test-Grafana) how to set up this yourself.\n",
+        "content": "# DSC Extended\n\nThese graphs presents more detailed statistics around RD/D0 bit, EDNS version, client port ranges etc,\nthat can be gathered by [DSC](https://www.dns-oarc.net/oarc/data/dsc).\n\n**NOTE:** these graphs are just examples.\n\nRead [this wiki article](https://codeberg.org/DNS-OARC/dsc-datatool/wiki/Setting-up-a-test-Grafana) how to set up this yourself.\n",
         "mode": "markdown"
       },
       "pluginVersion": "9.2.3",
