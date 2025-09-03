@@ -1,7 +1,7 @@
 # DSC example dashboards 2.0
 
 These dashboards contains reworked and updated graphs based on those from
-`setting-up-a-test-grafana` and can be used with [Setting up a test Grafana](https://github.com/DNS-OARC/dsc-datatool/wiki/Setting-up-a-test-Grafana).
+`setting-up-a-test-grafana` and can be used with [Setting up a test Grafana](https://codeberg.org/DNS-OARC/dsc-datatool/wiki/Setting-up-a-test-Grafana).
 
 **NOTE**: All graphs have a description, hover on the "i" top left corner.
 
